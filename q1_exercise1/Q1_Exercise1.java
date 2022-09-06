@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q1_exercise2;
+package q1_exercise1;
 
 /**
  *
  * @author MUON
  */
-public class Q1_Exercise2 {
+public class Q1_Exercise1 {
 
     /**
      * @param args the command line arguments
