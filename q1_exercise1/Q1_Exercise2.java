@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q1_exercise1;
+package q1_exercise2;
 
 import java.util.Scanner;
 import java.lang.Math;  
@@ -12,7 +12,7 @@ import java.lang.Math;
  *
  * @author MUON
  */
-public class Q1_Exercise1 {
+public class Q1_Exercise2 {
 
     /**
      * @param args the command line arguments
