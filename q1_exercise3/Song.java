@@ -10,5 +10,17 @@ package q1_exercise3;
  * @author MUON
  */
 public class Song {
-    
+    String name;
+    boolean sing = false;
+    public Song(){
+        name = "City of Tears";
+    }
+    public void sing(){
+        System.out.println(name + " is being sung");
+        sing = true;
+    }
+    public void stopSing(){
+        System.out.println(name + " has been stopped");
+        sing = false;
+    }
 }
